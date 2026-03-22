@@ -1,6 +1,6 @@
 # This is my basic Calculator build using pure node 
 <br>
-<b> making this i learned about
+<b> making this i learned about</b>
 <br>
 method request headers 
 <br>
