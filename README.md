@@ -1,13 +1,13 @@
 # This is my basic Calculator build using pure node 
 <br>
-<b> making this i learned about</b>
+<B> making this i learned about</B>
 <br>
-method request headers 
+-method request headers 
 <br>
- what is chunks
+ -what is chunks
 <br>
-how to use chunks 
+-how to use chunks 
 <br>
-how to take user input 
+-how to take user input 
 <br>
-how to acess module and how to use it  to make code readable
+-how to acess module and how to use it  to make code readable
